@@ -2,7 +2,7 @@
 
 Team members: Nourah Almuhaisen, Sarah Alyami and Lama Alshabani.
 
-<img width="900" height="500" src="https://github.com/isazHfc/test/blob/main/Burdick-TV-Crime.jpg.webp">
+<img width="900" height="500" src="https://github.com/LamaAlshabani/Bootcamp-Project-2-Data-Analysis/blob/main/Burdick-TV-Crime.jpg.webp">
 
 ## Problem Statement
 
