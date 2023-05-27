@@ -73,13 +73,13 @@
 ### By addressing these objectives, we aim to enhance our understanding of the life conditions contributing to depression in rural areas. The insights gained from this study can help inform the development of targeted interventions and policies to improve mental health support and overall well-being in rural communities.
 
 # Findings  
-1. Between the ages of 20-30, depression is most prevalent, and between the ages of 30-50, depression gradually decreases
-2. .Based on the information provided, it seems that approximately 77.4% of the individuals in the depression dataset are married,
-3. From depression dataset of conditions in rural areas there is comparison between number of depression , number of no depressed is higher than depressed 
-4. The level of education can affect depression. Through the chart, it is shown that the education level = 10 is highest distribution
-5. A comparison of the number of children and how their number may affect depression, Number of children = 3 is highest distribution
-6-The number of people depressed and incoming salary , and does the incoming salary affect depression . number of people have no incoming salary is the most .
-7. The live expenses for living for villagers and the difference between those who have depression and those who do not .
-8. They have depression from the villagers and those who own a farm and those who do not.
-9. The percentage of those who suffer from depression and have a business income that helps them in matters of life for life and material comfort
-10. The number of people who have depression and number of family members and does the number of family members affect depression or not.
+- chart#1 Between the ages of 20-30, depression is most prevalent, and between the ages of 30-50, depression gradually decreases
+- chart#2 Based on the information provided, it seems that approximately 77.4% of the individuals in the depression dataset are married,
+- chart#3. From depression dataset of conditions in rural areas there is comparison between number of depression , number of no depressed is higher than depressed 
+- chart#4. The level of education can affect depression. Through the chart, it is shown that the education level = 10 is highest distribution
+- chart#5. A comparison of the number of children and how their number may affect depression, Number of children = 3 is highest distribution
+- chart#6.The number of people depressed and incoming salary , and does the incoming salary affect depression . number of people have no incoming salary is the most .
+- chart#7. The live expenses for living for villagers and the difference between those who have depression and those who do not .
+- chart#8. They have depression from the villagers and those who own a farm and those who do not.
+- chart#9. The percentage of those who suffer from depression and have a business income that helps them in matters of life for life and material comfort
+- chart#10. The number of people who have depression and number of family members and does the number of family members affect depression or not.
