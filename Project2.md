@@ -86,6 +86,6 @@ For the remaining columns, we tackled missing values by utilizing the `mode()` f
 
 - What are the top 10 reported Narcotic crime ?
 
-- Monthly Trends of Theft Shoplifting Incidents?
+- How does the number of theft shoplifting incidents vary across different months?
 
 - What are the different types of crimes associated with weapons and their respective proportions?
