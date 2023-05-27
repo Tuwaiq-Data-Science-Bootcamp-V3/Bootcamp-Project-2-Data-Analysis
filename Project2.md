@@ -69,3 +69,23 @@ For the remaining columns, we tackled missing values by utilizing the `mode()` f
 5. Finally, the cleaned dataset is saved in a new CSV file.
 
 ## The final ten insights
+
+- What are the top 5 Crimes in the dataset?
+
+- What are the most common type of CAR PROWL crime in the dataset?
+
+- What are the most common type of HOMICIDE crime in the dataset?
+
+- How does the number of reported crimes vary by day of the week?
+
+- What is the distribution of crime occurrences throughout the day?
+
+- What are the top 5 most common crimes subcategories occurence from 00.00 AM to 04.59 AM?
+
+- How does the number of occurrences crimes vary by day of the week?
+
+- What are the top 10 reported Narcotic crime ?
+
+- Monthly Trends of Theft Shoplifting Incidents?
+
+- What are the different types of crimes associated with weapons and their respective proportions?
