@@ -2,6 +2,11 @@
 
 The Real Estate Database contains information about real estate lands in Riyadh for the first Quarter in 2022, including their prices per meter, sizes, names of the neighborhoods, and the total price. The dataset was sourced from the Ministry of Justice.
 
+## Team members:
+- Amjad Alsuwaiket
+- Majed Alshnifi
+- Zainab Melaibari
+
 ## Exploratory Data Analysis (EDA)
 
 In order to gain insights and understand the dataset, we performed Exploratory Data Analysis (EDA) using various steps and techniques. The following are the steps we followed:
@@ -23,6 +28,15 @@ By following these EDA steps, we were able to gain a comprehensive understanding
 # Data Visualization
 
 In this section, we present meaningful insights obtained through data visualization techniques. We have used various charts to analyze the real estate dataset and provide valuable insights.
+
+## Real Estates Number In 2022 First Quarter
+
+To represent the number of real estate in each month of the first quarter of 2022, we plot a Pie Chart that shows the number of real estate for the first three months: 'January', 'February', and 'March'. Also, based on the month that has the maximum number of real estate, we plot another Pie Chart that shows the number of real estate on each day of that month. These charts help to build an intuition about the best selling time for real estate in 2022.
+
+<center>
+    <img src="images/PieChart1Image.jpg" alt="Real Estates Number In 2022 First Quarter" width="600px">
+</center>
+
 
 ## Sales Distribution over the First Quarter by Land Area
 
