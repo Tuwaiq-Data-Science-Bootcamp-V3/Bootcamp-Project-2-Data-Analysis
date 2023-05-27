@@ -130,4 +130,4 @@ As we can see the amount of movies made kept on increasing which means the movie
 - GeeksforGeeks
 - matplotlib.org
 - Coolors
-- python-charts.com
+- [python-charts.com](https://python-charts.com/matplotlib/styles/#:~:text=Matplotlib%20provides%20built-in%20style%20sheets%20to%20customize%20the,printing%20the%20following%3A%20import%20matplotlib.pyplot%20as%20plt%20print%28plt.style.available%29)
