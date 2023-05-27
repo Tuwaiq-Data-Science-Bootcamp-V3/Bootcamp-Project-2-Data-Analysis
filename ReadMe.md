@@ -133,7 +133,7 @@ The real estate dataset for the first quarter of 2022 in Riyadh provides valuabl
 
 - The sales distribution over the first quarter shows variations among different months, with January having the highest number of real estate sales.
 
-- The majority of land areas in the dataset fall under the category of 'less than 300m', followed by 'between 300m & 600m', and 'above 600m'.
+- The majority of land areas in the dataset fall under the category of 'between 300m & 600m', followed by 'above 600m', and 'under 300'.
 
 - Within the desired land area range of 300m to 600m, different neighborhoods in Riyadh show varying sales distributions.
 
