@@ -1,31 +1,24 @@
-# Data Preprocessing and Analysis
+# Team Members
+- Sultan Alharbi
+- Albandari Alshudukhi
+- Essa Alhammad
 
-**Based on what you’ve learned until now, use NumPy, pandas, and matplotlib to create a project of your choosing.**
+# Introduction
+- The objective of this project is to perform an exploratory data analysis on a dataset about smartphones using Python packages such as NumPy, Pandas, and Matplotlib. We aim to gain insights into the dataset and understand the trends surrounding these devices.
+# Dataset Overview and Source
+- The dataset we used is called the [smartphone_dataset](https://www.kaggle.com/datasets/smitautade/smartphone-dataset)  and can be found on the Kaggle platform. It contains approximately 1,000 entries with 25 columns of different features for each smartphone, including  a vast range of information on each smartphone model, including technical specifications and ratings. Each smartphone model is listed with its unique identifier, along with detailed information on its hardware and software components, camera specifications, battery life, and more
 
-**This project must at least satisfy the following minimum requirements:**
+# Final Ten Insights According to the data analyzed.
+1. The most expensive Smart Phone was at 7222$
+2. The best-selling brand : Vertu
+3. the best-selling model : vertu signature Touch
+4. 60% of Smart Phones support NFC
+5. The most popular Operation System was 'Andriod'
+6. Most mobiles have IR Blaster feature 
+7. The most popular Processor Brand was 'snapdargon'
+8. There is a positive correlation between ratings and prices
+9. Most ratings fell within the 75-80 range
+10. xiaomi has the highest number of smartphone models among all brands.
 
-- Choose a public dataset that needs to clean and preprocess.
-- EDA
-    - Apply the essential EDA steps: head, shape, info, describe, missing values
-    - Apply the additional EDA steps based on your dataset needs.
-- Data Visualization
-    - Drive meaningful insights (at least 10 different charts, 5 of them are unique).
-    - Draw a subplot using the previous charts.
-    - Apply chart format include:
-        - Choose a specific style for your charts.
-        - Apply one color palette from your choice on all charts.
-        - Use title, x and y labels, font size, figure size, legends
-- Use pandas profiling.
-- Report your final conclusion and findings in one page (readme markdown file).
-    - Team members.
-    - Introduction (problem, objectives)
-    - Dataset Overview and Source.
-    - Describe the final ten insights.
-
-
-- **The Final presentation will be on Sunday (10 min for each group).**
-- **Due Date: Sat, 27 May, 11:00 pm**
-## Final Deliverables:
-- Notebook file(.ipynb).
-- Dataset file.
-- README.md file.
+# Conclusion and Findings
+- The dataset we analyzed provided insights into the correlation between different features of smartphones and their pricing. This would be valuable information for those in the smartphone industry, from marketing and sales teams to product development teams. There is still more analysis that can be done on this dataset and we recommend exploring it further for future projects.. 
