@@ -1,11 +1,27 @@
-# Introduction to the Real Estate Database
-
-The Real Estate Database contains information about real estate lands in Riyadh for the first Quarter in 2022, including their prices per meter, sizes, names of the neighborhoods, and the total price. The dataset was sourced from the Ministry of Justice.
-
 ## Team members:
 - Amjad Alsuwaiket
 - Majed Alshnifi
 - Zainab Melaibari
+
+# Introduction to the Real Estate Database
+
+The Real Estate Database provides valuable insights into the real estate market in Riyadh. This analysis aims to explore the dataset, understand key trends, and derive meaningful insights to aid decision-making and provide a comprehensive understanding of the market.
+### Problem Statement
+
+The real estate market in Riyadh is highly competitive and dynamic. Understanding the market trends, sales distribution, and pricing patterns is crucial for buyers, sellers, and investors. This analysis aims to answer important questions related to sales distribution, land area preferences, and neighborhood pricing, enabling stakeholders to make informed decisions.
+
+### Objectives
+
+1. Identify the sales distribution over the first quarter of 2022.
+2. Analyze the relationship between land area and sales.
+3. Determine the most desired land area range and its sales distribution by neighborhood.
+4. Explore the average price per meter in different neighborhoods.
+5. Provide insights to support decision-making in the real estate market.
+
+## Dataset Overview
+
+The dataset comprises real estate information for the first quarter of 2022 in Riyadh. It includes data on prices per meter, land sizes, neighborhood names, and total prices. The dataset was sourced from the Ministry of Justice, ensuring its reliability and accuracy.
+
 
 ## Exploratory Data Analysis (EDA)
 
