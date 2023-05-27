@@ -65,13 +65,9 @@
 ### The objective of this study is to explore the following aspects related to depression in rural areas:
 
 1. Identify the demographic characteristics of the survey participants, including gender, age, marital status, and number of children.
-
 2. Examine the education levels of individuals living in rural zones and assess how education may influence the prevalence of depression.
-
 3. Investigate the economic factors, such as gained assets, durable assets, savings, and income sources (e.g., salary, own farm, business), to understand their relationship with depression.
-
 4. Analyze the impact of living expenses, other expenses, agricultural income, farm expenses, and labor involvement on depression rates.
-
 5. Evaluate the influence of lasting investments and lack of lasting investments on the prevalence of depression.
 
 ### By addressing these objectives, we aim to enhance our understanding of the life conditions contributing to depression in rural areas. The insights gained from this study can help inform the development of targeted interventions and policies to improve mental health support and overall well-being in rural communities.
