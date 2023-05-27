@@ -13,7 +13,7 @@ We want to dive deeper into the influence of movies. What makes a movie popular?
 answer all of these questions and more to compeletely analyze the movie industry.
 
 
-We used "tmdb-movies" which is a database we downloaded from Kaggle that has ten thousand movies to analyze.
+We used "tmdb-movies" which is a database we downloaded from Kaggle that has five thousand movies to analyze.
 ### This analysis process will contain the following questions:
    - Which genres are most popular from year to year?
    - What kinds of properties are associated with movies that have high revenues?
@@ -124,7 +124,7 @@ As we can see the amount of movies made kept on increasing which means the movie
 
 
 ## Sources and references:
-- [Kaggle]()
+- [Kaggle](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
 - [IMDB top rated movies](https://www.imdb.com/chart/top?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=4da9d9a5-d299-43f2-9c53-f0efa18182cd&pf_rd_r=9S9ZTYQ2Z3V30C03YNDV&pf_rd_s=right-4&pf_rd_t=15506&pf_rd_i=bottom&ref_=chtbtm_ql_3)
 - Stack Overflow
 - GeeksforGeeks
