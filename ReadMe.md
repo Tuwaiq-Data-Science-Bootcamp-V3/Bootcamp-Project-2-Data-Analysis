@@ -155,9 +155,9 @@ These insights provide valuable information for stakeholders in the real estate 
 
 The analysis of the real estate dataset for the first quarter of 2022 in Riyadh reveals important insights about the market. By examining the sales distribution, land area preferences, and pricing patterns, stakeholders in the real estate industry can make informed decisions and capitalize on opportunities. Here are the key findings:
 
-1. **Sales Distribution**: The sales distribution varies across different months, with March experiencing the highest number of real estate sales. This information helps stakeholders understand the market dynamics and plan their strategies accordingly.
+1. **Sales Distribution**: The sales distribution varies across different months, with January experiencing the highest number of real estate sales. This information helps stakeholders understand the market dynamics and plan their strategies accordingly.
 
-2. **Land Area Preferences**: The majority of the land areas in the dataset fall under the category of 'less than 300m'. Understanding the prevalent land area preferences provides valuable insights for developers, investors, and buyers in aligning their offerings with market demand.
+2. **Land Area Preferences**: The majority of the land areas in the dataset fall under the category of 'between 300m and 600'. Understanding the prevalent land area preferences provides valuable insights for developers, investors, and buyers in aligning their offerings with market demand.
 
 3. **Neighborhood Sales**: The analysis highlights the variations in sales distribution among different neighborhoods within the desired land area range of 300m to 600m. This information can guide stakeholders in identifying neighborhoods with higher sales potential and adjusting their marketing and investment strategies accordingly.
 
