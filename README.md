@@ -1,31 +1,46 @@
-# Data Preprocessing and Analysis
-
-**Based on what you’ve learned until now, use NumPy, pandas, and matplotlib to create a project of your choosing.**
-
-**This project must at least satisfy the following minimum requirements:**
-
-- Choose a public dataset that needs to clean and preprocess.
-- EDA
-    - Apply the essential EDA steps: head, shape, info, describe, missing values
-    - Apply the additional EDA steps based on your dataset needs.
-- Data Visualization
-    - Drive meaningful insights (at least 10 different charts, 5 of them are unique).
-    - Draw a subplot using the previous charts.
-    - Apply chart format include:
-        - Choose a specific style for your charts.
-        - Apply one color palette from your choice on all charts.
-        - Use title, x and y labels, font size, figure size, legends
-- Use pandas profiling.
-- Report your final conclusion and findings in one page (readme markdown file).
-    - Team members.
-    - Introduction (problem, objectives)
-    - Dataset Overview and Source.
-    - Describe the final ten insights.
+## Weather Summary in Saudi Arabia from (2017-2018) Project week 2
 
 
-- **The Final presentation will be on Sunday (10 min for each group).**
-- **Due Date: Sat, 27 May, 11:00 pm**
-## Final Deliverables:
-- Notebook file(.ipynb).
-- Dataset file.
-- README.md file.
+This project aims to summarize the weather conditions for the main regions in Saudi Arabia from 2017-2018 using pandas , matplot and numpy libraries.
+the main objective for this project is to analyse the changes of the weather over the 2 years and find any correlations.
+
+## Dataset Source : 
+ ### [Source link] 
+
+## Dataset Overview :
+
+The dataset contains the history weather for each region in Saudi Arabia for each day through 2 years from 2017 to 2018 including the following columns :
+city,date,time,year,month,day,hour,minute,weather,temp,wind,humidity,barometer and visibility
+
+
+## Finding and insights :
+
+- The highest temperature in Saudi Arabia is 50 including the following regions(EP, Qassim, Mecca , Hail and Madinah)
+- The lowest temperature in Saudi Arabia is 0 including the following regions(Hail , Jawf , Northern boarder , Tabuk , Qassim)
+- Typical weather in Saudi Arabia is clear with a percentage of 45%
+- There is a relationship between the visibility ratio and the weather condition as follows: The rate of visibility decreases when the weather condition is not sunny
+- There is no noticeable change in average temperatures for 2 years
+- The lowest average temperature month is January then December
+- The highest average temperature month is July then August
+- Increasing the humidity and wind speed lead to a decrease in visibility over the 2 years
+- The chart analysis enables you to choose the best time to visit each region, according to the preferred temperature
+
+
+
+
+## Team Members : 
+
+- Deema Alkhudairi
+- Hanadi Salamn Almoutairy
+- Fahad atallah alluqmani
+
+
+[Source link]:  <https://www.kaggle.com/datasets/esraamadi/saudi-arabia-weather-history>
+
+
+
+
+
+```python
+
+```
