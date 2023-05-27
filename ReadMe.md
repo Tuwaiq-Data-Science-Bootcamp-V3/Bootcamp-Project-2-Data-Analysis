@@ -131,7 +131,7 @@ The scale analysis show all the neighbourhood in riyadh with the higst price
 
 The real estate dataset for the first quarter of 2022 in Riyadh provides valuable insights into the market trends and sales distribution.
 
-- The sales distribution over the first quarter shows variations among different months, with March having the highest number of real estate sales.
+- The sales distribution over the first quarter shows variations among different months, with January having the highest number of real estate sales.
 
 - The majority of land areas in the dataset fall under the category of 'less than 300m', followed by 'between 300m & 600m', and 'above 600m'.
 
