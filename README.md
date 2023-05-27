@@ -1,31 +1,29 @@
-# Data Preprocessing and Analysis
+# Team Members 
+- Fahad Alotaibi 
+- Hamad Alsulaiman 
+- Najlaa Alsowayed
 
-**Based on what you’ve learned until now, use NumPy, pandas, and matplotlib to create a project of your choosing.**
-
-**This project must at least satisfy the following minimum requirements:**
-
-- Choose a public dataset that needs to clean and preprocess.
-- EDA
-    - Apply the essential EDA steps: head, shape, info, describe, missing values
-    - Apply the additional EDA steps based on your dataset needs.
-- Data Visualization
-    - Drive meaningful insights (at least 10 different charts, 5 of them are unique).
-    - Draw a subplot using the previous charts.
-    - Apply chart format include:
-        - Choose a specific style for your charts.
-        - Apply one color palette from your choice on all charts.
-        - Use title, x and y labels, font size, figure size, legends
-- Use pandas profiling.
-- Report your final conclusion and findings in one page (readme markdown file).
-    - Team members.
-    - Introduction (problem, objectives)
-    - Dataset Overview and Source.
-    - Describe the final ten insights.
+# problem & objective 
+- Developing marketing strategies for a country that attracts fewer visitors.
+- The price of a complete meal does not generate significant revenue.
+- The place may not offer enough facilities for families with young children.
+- A survey of individuals who cancelled their reservations can shed light on the root causes of the cancellations.
+- Understanding the factors that led to a decrease in guest numbers in 2017 comapared to 2015 and 2016.
+-  Giving out loyalty cards to customers who return can encourage increase number of revist.
 
 
-- **The Final presentation will be on Sunday (10 min for each group).**
-- **Due Date: Sat, 27 May, 11:00 pm**
-## Final Deliverables:
-- Notebook file(.ipynb).
-- Dataset file.
-- README.md file.
+# Dataset Overview 
+-   The hotel booking dataset contains booking information for hotel, It provides details about various aspects of the bookings, including the booking dates, number of adults, children, and babies, number of available parking spaces, and more. 
+
+# Dataset Source 
+#### https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand
+
+
+
+
+
+
+
+
+
+
