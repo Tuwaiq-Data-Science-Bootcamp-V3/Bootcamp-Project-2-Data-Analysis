@@ -126,3 +126,48 @@ The scale analysis show all the neighbourhood in riyadh with the higst price
 <center>
     <img src="images/output8.png"  width="400px">
 </center>
+
+# Real Estate Insights for the First Quarter of 2022 in Riyadh
+
+The real estate dataset for the first quarter of 2022 in Riyadh provides valuable insights into the market trends and sales distribution.
+
+- The sales distribution over the first quarter shows variations among different months, with March having the highest number of real estate sales.
+
+- The majority of land areas in the dataset fall under the category of 'less than 300m', followed by 'between 300m & 600m', and 'above 600m'.
+
+- Within the desired land area range of 300m to 600m, different neighborhoods in Riyadh show varying sales distributions.
+
+- For land areas above 600m, certain neighborhoods stand out with higher sales volumes compared to others.
+
+- The average price per meter in neighborhoods with land areas above 600m varies, indicating pricing differences in different areas of Riyadh.
+
+- The average price per meter in neighborhoods with land areas between 300m and 600m also shows variations, reflecting the impact of location and land size.
+
+- The top-selling community in Riyadh recorded 28,538 sales, indicating its popularity and market demand.
+
+- Some neighborhoods in Riyadh had lower sales volumes during the first quarter, suggesting potential opportunities for buyers or investors.
+
+- The analysis identified neighborhoods with the highest-priced land, highlighting areas where premium properties are located.
+
+These insights provide valuable information for stakeholders in the real estate market, enabling them to make informed decisions based on sales distribution, land area preferences, and pricing patterns in different neighborhoods of Riyadh.
+
+## Conclusion
+
+The analysis of the real estate dataset for the first quarter of 2022 in Riyadh reveals important insights about the market. By examining the sales distribution, land area preferences, and pricing patterns, stakeholders in the real estate industry can make informed decisions and capitalize on opportunities. Here are the key findings:
+
+1. **Sales Distribution**: The sales distribution varies across different months, with March experiencing the highest number of real estate sales. This information helps stakeholders understand the market dynamics and plan their strategies accordingly.
+
+2. **Land Area Preferences**: The majority of the land areas in the dataset fall under the category of 'less than 300m'. Understanding the prevalent land area preferences provides valuable insights for developers, investors, and buyers in aligning their offerings with market demand.
+
+3. **Neighborhood Sales**: The analysis highlights the variations in sales distribution among different neighborhoods within the desired land area range of 300m to 600m. This information can guide stakeholders in identifying neighborhoods with higher sales potential and adjusting their marketing and investment strategies accordingly.
+
+4. **Pricing Patterns**: The average price per meter varies in neighborhoods with land areas above 600m and between 300m and 600m. This reflects the influence of location and land size on property prices. Stakeholders can leverage this information to assess the value of properties and negotiate prices effectively.
+
+5. **Top-Selling Community**: The identification of the top-selling community in Riyadh with 28,538 sales emphasizes its popularity and market demand. This insight can be valuable for buyers and investors looking to invest in high-demand areas.
+
+6. **Potential Opportunities**: The lower sales volumes in certain neighborhoods during the first quarter indicate potential opportunities for buyers or investors. These areas may offer attractive pricing, making them suitable for those seeking investment prospects or affordable properties.
+
+7. **Premium Property Locations**: The analysis identifies neighborhoods with the highest-priced land, indicating the presence of premium properties. This insight can guide stakeholders interested in luxury or high-end real estate.
+
+In conclusion, the real estate insights derived from the first quarter of 2022 dataset in Riyadh provide valuable knowledge for stakeholders in the market. By leveraging these insights, buyers, sellers, investors, and developers can make well-informed decisions, optimize their strategies, and navigate the dynamic real
+
