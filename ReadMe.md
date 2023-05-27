@@ -20,7 +20,7 @@ The real estate market in Riyadh is highly competitive and dynamic. Understandin
 
 ## Dataset Overview
 
-The dataset comprises real estate information for the first quarter of 2022 in Riyadh. It includes data on prices per meter, land sizes, neighborhood names, and total prices. The dataset was sourced from the Ministry of Justice, ensuring its reliability and accuracy.
+The dataset comprises real estate information for the first quarter of 2022 in Riyadh. It includes data on prices per meter, land sizes, neighborhood names, and total prices. The dataset was sourced from the [Ministry of Justice](https://www.moj.gov.sa/ar/opendata/bi/birealestate/Dashboards/100_kpiDistrict/101_Monthly/kpi101_04.aspx#), ensuring its reliability and accuracy.
 
 
 ## Exploratory Data Analysis (EDA)
