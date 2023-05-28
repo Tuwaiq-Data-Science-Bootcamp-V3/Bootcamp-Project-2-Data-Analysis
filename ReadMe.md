@@ -106,21 +106,21 @@ To analyze the average price per meter in different neighborhoods for land areas
 
 In addition to the specific questions mentioned above, we have generated several other charts to drive meaningful insights from the real
 
-## Top Selling Riyadh Communities
+## Top Selling Riyadh Communities Neighbourhood
 
 The top-selling community in the Riyadh with 28,538 sales.
 <center>
     <img src="images/output11.jpg"  width="400px">
 </center>
 
-## Less Selling Riyadh Communities
+## Less Selling Riyadh Communities Neighbourhood
 
 The scale analysis show less selling lands at Jan , Feb and Mar
 <center>
     <img src="images/output9.png"  width="400px">
 </center>
 
-## The most hight price selling of the land
+## The most hight price selling of the land 
 
 The scale analysis show all the neighbourhood in riyadh with the higst price 
 <center>
