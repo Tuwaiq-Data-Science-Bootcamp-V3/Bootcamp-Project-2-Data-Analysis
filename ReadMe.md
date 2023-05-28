@@ -110,7 +110,7 @@ In addition to the specific questions mentioned above, we have generated several
 
 The top-selling community in the Riyadh with 28,538 sales.
 <center>
-    <img src="images/output11.png"  width="400px">
+    <img src="images/output11.jpg"  width="400px">
 </center>
 
 ## Less Selling Riyadh Communities
